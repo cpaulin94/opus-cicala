@@ -1,4 +1,4 @@
 from __future__ import annotations
 
 def main() -> None:
-    print("Hello from Opus Cicalae!")
+    print("Hello from Opus Cicala!")

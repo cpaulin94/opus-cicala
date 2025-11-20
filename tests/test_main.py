@@ -1,6 +1,6 @@
-from opus_cicalae.main import main
+from opus_cicala.main import main
 
 def test_main(capsys):
     main()
     captured = capsys.readouterr()
-    assert "Opus Cicalae" in captured.out
+    assert "Opus Cicala" in captured.out

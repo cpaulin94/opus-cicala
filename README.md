@@ -8,7 +8,7 @@ uv install
 
 ## Run
 ```sh
-uv run opus-cicalae
+uv run opus-cicala
 ```
 
 ## Test

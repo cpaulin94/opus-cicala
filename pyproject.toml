@@ -1,13 +1,13 @@
 [project]
-name = "opus-cicalae"
+name = "opus-cicala"
 version = "0.1.0"
-description = "Starter UV project for Opus Cicalae."
+description = "Starter UV project for Opus Cicala."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 
 [project.scripts]
-opus-cicalae = "opus_cicalae.main:main"
+opus-cicala = "opus_cicala.main:main"
 
 [tool.uv]
 package = true
